@@ -1,2 +1,5 @@
-Hi I'm Bamlak
-am interested in programming, data analytics, and cybersecurity
+Hi I'm Bamlak a computer science student
+
+I'm interested in programming, data analytics, and cybersecurity
+
+
